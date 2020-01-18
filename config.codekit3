@@ -35,16 +35,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/css/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "/build/css/style.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
@@ -452,14 +442,6 @@
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
-		},
-	"/index.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/build/index.html",
-		"oF": 1
 		},
 	"/js/ie10-viewport-bug-workaround.js": {
 		"bF": 0,

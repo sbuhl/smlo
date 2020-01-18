@@ -104,14 +104,7 @@ p.lead{
 .partners p{
   text-align: center;
 }
-.card{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.card img{
-width: 50%;
-}
+
 .assistance{
   background-color: #34495e;
   color: #bb936f;
